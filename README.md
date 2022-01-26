@@ -11,8 +11,8 @@ This is my attempt to learn machine learning with audio data which is kinda unch
 **Result**: 
 
 After 300 epochs:
-Training: **87.05%** 	
-Validation: **90.48%**
+Training: **94.71%** 	
+Validation: **90.12%**
 
 ![](readme_images/training_graph.PNG)
 
